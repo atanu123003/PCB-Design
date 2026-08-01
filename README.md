@@ -22,6 +22,7 @@ This repository contains my PCB design projects created using KiCad and EasyEDA.
 
 ```text
 01-Digital-Inverter-With-Fedback
+02-Smart-Egg-Incubator
 ```
 
 ## 📷 Preview
