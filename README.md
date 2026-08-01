@@ -16,21 +16,12 @@ This repository contains my PCB design projects created using KiCad and EasyEDA.
 
 ## 📂 Project Categories
 
-- 🔌 Power Supply
-- 📡 ESP32 Boards
-- 🤖 Embedded Systems
-- 🔋 Battery Management System
-- 🔊 Audio Amplifier
-- 📟 IoT Devices
+ -something
 
 ## 📁 Repository Structure
 
 ```text
-01-LED-Blink-PCB
-02-ESP32-Dev-Board
-03-SMPS
-04-BMS
-05-Smart-Incubator
+01-Digital-Inverter-With-Fedback
 ```
 
 ## 📷 Preview
